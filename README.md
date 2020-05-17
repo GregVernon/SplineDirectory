@@ -8,8 +8,18 @@ There are a seemingly innumerable amount of splines that have been defined in ac
 | Name   | Year | Seminal Publication | Author |
 |--------|------|---------------------|--------|
 | Spline | 1945 | [Contributions to the Problem of Approximations of Equidistant Data by Analytic Functions, Part A](https://www.ams.org/journals/qam/1946-04-01/S0033-569X-1946-15914-5/) | I.J. Schoenberg |
-|        |      |                     |        |
-|        |      |                     |        |
+| B-spline | 1945 | [Contributions to the Problem of Approximations of Equidistant Data by Analytic Functions, Part A](https://www.ams.org/journals/qam/1946-04-01/S0033-569X-1946-15914-5/) | I.J. Schoenberg |
+| d-spline | 2006 | [d-Spline Based Incremental Parameter Estimation in Automatic Performance Tuning](https://link.springer.com/chapter/10.1007/978-3-540-75755-9_116) | Teruo Tanaka |
+| H-spline | 1996 | [Density estimation via hybrid splines](https://doi.org/10.1080/00949659808811893) | R. Dias |
+| IT-spline | 2020 | [C<sup>2</sup> interpolation T-splines](https://www.sciencedirect.com/science/article/pii/S0045782520300165) | Yuanpeng Zhua; Xuli Han |
+| J-spline | 2002 | [A Unified Subdivision Scheme for Polygonal Modeling](https://doi.org/10.1111/1467-8659.00540)| J. Maillot;  J. Stam |
+| M-spline | 1972 | [M-splines](https://www.sciencedirect.com/science/article/pii/0021904572900263) | T.R. Lucas |
+| P-spline | 1996 | [Flexible Smoothing with B-splines and Penalties](https://www.jstor.org/stable/2246049) | P. Eilers; B. Marx |
+| Q-spline | 1991 | [Q-splines](https://link.springer.com/article/10.1007/BF02145582) | R. Kulkarni; P. Laurent |
+| R-spline | 1972 | [R-splines in Banach spaces: I. Interpolation of linear manifolds](https://doi.org/10.1016/0022-247X(72)90003-0) | R. Holmes |
+| T-spline | 2003 | [T-splines and T-NURCCs](https://dl.acm.org/doi/10.1145/882262.882295) | T. Sederberg *et al.* |
+| X-spline | 1978 | [The Cubic X-Spline and its Application to Interpolation](https://doi.org/10.1093/imamat/22.1.109) | C.W. Clenshaw; B. Negus |
+| Z-spline | 2003 | [Z-splines: moment conserving cardinal spline interpolation of compact support for arbitrarily spaced data](https://doi.org/10.3929/ethz-a-004605396) | B. Sagredo; J.C. Tercero |
 
 
 # Bookeeping vision of the project
