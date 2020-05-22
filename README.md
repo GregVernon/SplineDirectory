@@ -13,6 +13,7 @@ There are a seemingly innumerable amount of splines that have been defined in ac
 | H-spline | 1996 | [Density estimation via hybrid splines](https://doi.org/10.1080/00949659808811893) | R. Dias |
 | IT-spline | 2020 | [C<sup>2</sup> interpolation T-splines](https://www.sciencedirect.com/science/article/pii/S0045782520300165) | Yuanpeng Zhua; Xuli Han |
 | J-spline | 2002 | [A Unified Subdivision Scheme for Polygonal Modeling](https://doi.org/10.1111/1467-8659.00540)| J. Maillot;  J. Stam |
+| LRB-spline | 2013 | [Polynomial splines over locally refined box-partitions](https://doi.org/10.1016/j.cagd.2012.12.005) |T. Dokkena; T. Lycheb; K.F. Pettersen|
 | M-spline | 1972 | [M-splines](https://www.sciencedirect.com/science/article/pii/0021904572900263) | T.R. Lucas |
 | P-spline | 1996 | [Flexible Smoothing with B-splines and Penalties](https://www.jstor.org/stable/2246049) | P. Eilers; B. Marx |
 | Q-spline | 1991 | [Q-splines](https://link.springer.com/article/10.1007/BF02145582) | R. Kulkarni; P. Laurent |
