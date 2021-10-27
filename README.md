@@ -16,6 +16,7 @@ There are a seemingly innumerable amount of splines that have been defined in ac
 | J-spline | 2002 | [A Unified Subdivision Scheme for Polygonal Modeling](https://doi.org/10.1111/1467-8659.00540)| J. Maillot;  J. Stam |
 | LRB-spline | 2013 | [Polynomial splines over locally refined box-partitions](https://doi.org/10.1016/j.cagd.2012.12.005) |T. Dokkena; T. Lycheb; K.F. Pettersen|
 | M-spline | 1972 | [M-splines](https://www.sciencedirect.com/science/article/pii/0021904572900263) | T.R. Lucas |
+| ν-spline | 1974 | [Some piecewise polynomial alternatives to splines under tension](https://doi.org/10.1016/B978-0-12-079050-0.50015-1) | G. M. Nielson |
 | P-spline | 1996 | [Flexible Smoothing with B-splines and Penalties](https://www.jstor.org/stable/2246049) | P. Eilers; B. Marx |
 | Q-spline | 1991 | [Q-splines](https://link.springer.com/article/10.1007/BF02145582) | R. Kulkarni; P. Laurent |
 | R-spline | 1972 | [R-splines in Banach spaces: I. Interpolation of linear manifolds](https://doi.org/10.1016/0022-247X(72)90003-0) | R. Holmes |
