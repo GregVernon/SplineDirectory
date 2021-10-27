@@ -9,6 +9,7 @@ There are a seemingly innumerable amount of splines that have been defined in ac
 |--------|------|---------------------|--------|
 | Spline | 1945 | [Contributions to the Problem of Approximations of Equidistant Data by Analytic Functions, Part A](https://www.ams.org/journals/qam/1946-04-01/S0033-569X-1946-15914-5/) | I.J. Schoenberg |
 | B-spline | 1945 | [Contributions to the Problem of Approximations of Equidistant Data by Analytic Functions, Part A](https://www.ams.org/journals/qam/1946-04-01/S0033-569X-1946-15914-5/) | I.J. Schoenberg |
+|β-spline | 1981 | [Beta-spline: A local representation based on shape parameters and fundamental geometric measures](https://collections.lib.utah.edu/ark:/87278/s64f49w4) | B. A. Barsky |
 | d-spline | 2006 | [d-Spline Based Incremental Parameter Estimation in Automatic Performance Tuning](https://link.springer.com/chapter/10.1007/978-3-540-75755-9_116) | Teruo Tanaka |
 | H-spline | 1996 | [Density estimation via hybrid splines](https://doi.org/10.1080/00949659808811893) | R. Dias |
 | IT-spline | 2020 | [C<sup>2</sup> interpolation T-splines](https://www.sciencedirect.com/science/article/pii/S0045782520300165) | Yuanpeng Zhua; Xuli Han |
